@@ -38,7 +38,7 @@ It has nice maps and 2000+ custom curated mind maps. Will be ported to LA eventu
 
 This current new vision of LA has been attempted to be written multiple times.
 
-In Next: https://github.com/nikitavoloboev/try/tree/main/archive/la-next
-In Solid Created JD App: https://github.com/learn-anything/solid
+- In Next: https://github.com/nikitavoloboev/try/tree/main/archive/la-next
+- In Solid Created JD App: https://github.com/learn-anything/solid
 
 This is new one. As minimal as possible. Understandable and documented code.
