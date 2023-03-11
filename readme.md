@@ -2,6 +2,26 @@
 
 > App to share what you know or want to learn next. Together with ideas you want to build.
 
+Explanation of vision and future [here](https://wiki.nikiv.dev/ideas/learn-anything).
+
+## Develop
+
+```
+cd app
+pnpm i
+pnpm run dev
+```
+
+The tool to be built is a mix of [Obsidian](https://obsidian.md/) or [Reflect](https://reflect.app/) (notes, wiki graph) and [Raindrop](https://raindrop.io/) (social link manager). And many more exciting ideas.
+
+Need to get basics of notes + links covered.
+
+Excited? Join our [Discord](https://discord.gg/bxtD8x6aNF). Ask for help or share ideas about the project. This is a completely open source project / community with goals to in future create personalized study plans on any topic in the universe. As well as to be the best collaboration space for idea building.
+
+Maybe with a mix of [Replit](https://replit.com). All open source. Your code. Your data. Your private or public knowledge/ideas.
+
+## Structure
+
 Built on top of [Solid Start](https://github.com/solidjs/solid-start).
 
 Using [Grafbase](https://grafbase.com) for backend.
@@ -13,20 +33,6 @@ grafbase
  ├─ schema.graphql -- data model
 app -- (Solid Start)
 ```
-
-## Develop
-
-```
-cd app
-pnpm i
-pnpm run dev
-```
-
-TODO: better instructions
-
-this is still early project.
-
-Explanation of vision and future [here](https://wiki.nikiv.dev/ideas/learn-anything).
 
 Website is to be deployed on: https://learn-anything.xyz
 
