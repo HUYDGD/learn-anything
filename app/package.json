@@ -17,9 +17,13 @@
   "dependencies": {
     "@solidjs/meta": "^0.28.2",
     "@solidjs/router": "^0.7.0",
+    "graphql-request": "^5.2.0",
     "solid-js": "^1.6.11",
     "solid-start": "^0.2.23",
     "undici": "^5.15.1"
+  },
+  "prettier": {
+    "semi": false
   },
   "engines": {
     "node": ">=16"
