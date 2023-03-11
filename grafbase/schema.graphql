@@ -1,0 +1,23 @@
+type User @model {
+  email: String! @unique
+}
+
+type Topic @model {
+  title: String!
+  content: String!
+  links: [Link]
+  notes: [Note]
+  user: User
+}
+
+type Link @model {
+  url: String!
+  title: String!
+  topic: Topic
+}
+
+type Note @model {
+  content: String!
+  url: URL!
+  topic: Topic
+}
